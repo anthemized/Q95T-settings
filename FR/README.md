@@ -11,8 +11,8 @@
 |                         | SDR nuit             | SDR piece sombre     | SDR piece lumineuse      | SDR jour jeux/sport | HDR film penombre (nuit) | HDR  film jour Maximum | HDR film jour  Flavored | SDR PS4 jour jeux        |
 | ----------------------- | -------------------- | -------------------- | ------------------------ | ------------------- | ------------------------ | ---------------------- | ----------------------- | ------------------------ |
 | Mode                    | cinema               | **FILMMAKER**        | standard                 | **naturel**         | cinema                   | **FILMMAKER**          | **FILMMAKER**           | standard                 |
-| Luminosité              | **11**               | 27                   | 35                       | 40                  | **35** (32)              | **50**                 | **45**                  | 35                       |
-| Contraste               | **41**               | 37                   | 40                       | 45                  | **42**( 37)              | **50**                 | **41**                  | 40                       |
+| Luminosité              | **11**               | 27                   | 35                       | 40                  | **35** (32)              | **50**                 | **50**                  | 35                       |
+| Contraste               | **41**               | 37                   | 40                       | 45                  | **42**( 37)              | **50**                 | **45**                  | 40                       |
 | Netteté                 | 1                    | 1                    | 1                        | 1                   | 0                        | 0                      | 0                       | 1                        |
 | Couleur                 | **23**               | **22**               | **18**                   | **15**              | **18** (22)              | 18                     | 18                      | **18**                   |
 | Teinte                  | +1R                  | +2R                  | +2R                      | +2R                 | +1R                      | +2R                    | +2R                     | +2R                      |
@@ -27,8 +27,8 @@
 | Vert                    | reglage/ajout -2/+1  | reglage/ajout -2/+1  | **réglage/ajout -3/1**   |                     | reglage -1               | reglage -1             | reglage -1              | **réglage/ajout -3/1**   |
 | Bleu                    | reglage/ajout -0/-2  | reglage/ajout -0/-2  | **reglage/ajout 0 /-3**  |                     | ajout -3                 | ajout -3               | ajout -3                | **reglage/ajout 0 /-3**  |
 | Gamma                   | BT1886               | BT1886               | BT1886                   | BT1886              | ST2084                   | ST2084                 | ST2084                  | BT1886                   |
-| BT 1886 / ST2084        | 0                    | 0                    | 0                        | 0                   | 0                        | **-1**                 | **0**                   | 0                        |
-| Détail ombre            | 0                    | +1                   | +2                       | 0                   | **0**                    | **+1**                 | **+3**                  | 0                        |
+| BT 1886 / ST2084        | -1                   | 0                    | +1                       | 0                   | 0                        | **-1**                 | **0**                   | 0                        |
+| Détail ombre            | +1                   | +2                   | +3                       | 0                   | **0**                    | **+1**                 | **+3**                  | 0                        |
 | Espace de couleurs      | Auto                 | Auto                 | Auto                     | Natif grisé         | **auto**                 | **auto**               | auto                    | **auto**                 |
 
 | Balance blancs 2points en cours d'utilisation | ajout  | reglage |

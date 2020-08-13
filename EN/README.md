@@ -10,7 +10,7 @@
 
 |                        | SDR night          | SDR dim light room | SDR day luminous room  | SDR day live/game/sport | HDR film dim light (night) | HDR  film day Maximum | HDR film day Flavored   | SDR PS4 day gaming     |
 | ---------------------- | ------------------ | ------------------ | ---------------------- | ----------------------- | -------------------------- | --------------------- | ----------------------- | ---------------------- |
-| Mode                   | Movie              | **FILMMAKER**      | standard               | **naturel**             | Movie                      | **FILMMAKER**         | **FILMMAKER**           | standard               |
+| Mode                   | Movie              | **FILMMAKER**      | standard               | **Natural**             | Movie                      | **FILMMAKER**         | **FILMMAKER**           | standard               |
 | Brightness             | **11**             | 27                 | 35                     | 40                      | **35** (32)                | **50**                | 50                      | 35                     |
 | Contrast               | **41**             | 37                 | 40                     | 45                      | **42**( 37)                | **50**                | **45**                  | 40                     |
 | Sharpness              | 1                  | 1                  | 1                      | 1                       | 0                          | 0                     | 0                       | 1                      |

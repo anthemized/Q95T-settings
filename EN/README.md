@@ -15,7 +15,7 @@
 | Contrast               | **41**             | 37                 | 40                     | 45                      | **42**( 37)                | **50**                | **45**                  | 40                     |
 | Sharpness              | 1                  | 1                  | 1                      | 1                       | 0                          | 0                     | 0                       | 1                      |
 | Colour                 | **23**             | **22**             | **18**                 | **15**                  | **18** (22)                | 18                    | 18                      | **18**                 |
-| Tint                   | +2R                | +2R                | +2R                    | +2R                     | +2R                        | +2R                   | +2R                     | +2R                    |
+| Tint                   | +1R                | +1R                | +1R                    | +1R                     | +1R                        | +1R                   | +1R                     | +1R                    |
 | Picture Clarity        | custom             | custom             | custom                 | custom                  | custom                     | custom                | custom                  | **auto**               |
 | Blur reduction         | 7                  | 7                  | 7                      | **10**                  | 7                          | 7                     | 7                       |                        |
 | Judder reduction       | 3                  | 3                  | 3                      | **5**                   | 3                          | 3                     | 3                       |                        |
@@ -25,15 +25,15 @@
 | White balance 2 points |                    |                    |                        |                         |                            |                       |                         |                        |
 | red                    | gain/offset +14/+3 | gain/offset +14/+3 | **gain/offset +15/+2** |                         | gain/offset +7/+1          | gain/offset +7/+1     | gain/offset +7/+1 +7/+1 | **gain/offset +15/+2** |
 | green                  | gain/offset -2/+1  | gain/offset -2/+1  | **gain/offset -3/1**   |                         | gain -1                    | gain -1               | gain -1                 | **gain/offset -3/1**   |
-| blue                   | gain/offset -0/-2  | gain/offset -0/-2  | **gain/offset 0 /-3**  |                         | offset -3                  | offset -3             | offset -3               | **gain/offset 0 /-3**  |
+| blue                   | gain/offset -3/-2  | gain/offset -3/-2  | **gain/offset -3 /-3** |                         | offset -3                  | offset -3             | offset -3               | **gain/offset 0 /-3**  |
 | Gamma                  | BT1886             | BT1886             | BT1886                 | BT1886                  | ST2084                     | ST2084                | ST2084                  | BT1886                 |
 | BT 1886 / ST2084       | **-1**             | 0                  | **+1**                 | 0                       | 0                          | **-1**                | **0**                   | 0                      |
-| Shadow details         | +1                 | +2                 | +3                     | 0                       | **0**                      | **+1**                | **+3**                  | 0                      |
+| Shadow details         | +1                 | +2                 | +3                     | 0                       | **0**                      | **2**                 | **0**                   | 0                      |
 | Colour Space           | Auto               | Auto               | Auto                   | Native (greyed)         | **auto**                   | **auto**              | auto                    | **auto**               |
 
 | White Balance 2points in use | offset | gain   |
 | ---------------------------- | ------ | ------ |
 | red                          | **+3** | +14    |
 | green                        | **1**  | **-2** |
-| blue                         | **-2** | 0      |
+| blue                         | **-2** | -3     |
 

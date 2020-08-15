@@ -37,3 +37,62 @@
 | vert                                          | **1**  | **-2**  |
 | bleu                                          | **-2** | -3      |
 
+
+
+**Balance 20 points **
+
+valable seulement pour le réglage SDR nuit précédent.
+
+| Valeur % | Rouge | Vert | Bleu |
+| -------- | ----- | ---- | ---- |
+| 5        | 10    | 0    | 0    |
+| 10       | 10    | 1    | -2   |
+| 15       | 13    | 5    | -10  |
+| 20       | 10    | 2    | -6   |
+| 25       | 3     | 0    | -2   |
+| 30       | 0     | 0    | 0    |
+| 35       | 0     | 4    | 6    |
+| 40       | 4     | 7    | 14   |
+| 45       | 0     | 4    | 13   |
+| 50       | 3     | 6    | 11   |
+| 55       | 0     | 3    | 6    |
+| 60       | 2     | 0    | -2   |
+| 65       | 2     | 2    | 0    |
+| 70       | 1     | -2   | -1   |
+| 75       | 0     | -2   | 4    |
+| 80       | -5    | -5   | -4   |
+| 85       | -7    | -7   | -7   |
+| 90       | -3    | -3   | -3   |
+| 95       | -1    | -1   | -2   |
+| 100      | -2    | -2   | -4   |
+
+**Espace de couleur personnalisé**
+
+Pour tester , ça améliore la justesse des rampes de saturation pour SDR nuit et SDR pénombre en Rec709
+
+**SDR nuit**
+
+attention il faut changer la saturation a 21 
+
+| Couleur | Rouge | Vert | Bleu |
+| ------- | ----- | ---- | ---- |
+| Rouge   | 65    | 50   | 50   |
+| Vert    | 75    | 50   | 42   |
+| Bleu    | 66    | 70   | 40   |
+| Jaune   | 55    | 55   | 50   |
+| Cyan    | 70    | 60   | 50   |
+| Magenta | 70    | 50   | 40   |
+
+**SDR Pénombre**
+
+attention il faut changer la saturation a 23 
+
+| Couleur | Rouge | Vert | Bleu |
+| ------- | ----- | ---- | ---- |
+| Rouge   | 70    | 50   | 50   |
+| Vert    | 60    | 50   | 45   |
+| Bleu    | 50    | 60   | 45   |
+| Jaune   | 70    | 70   | 50   |
+| Cyan    | 75    | 70   | 45   |
+| Magenta | 75    | 55   | 40   |
+

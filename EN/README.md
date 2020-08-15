@@ -37,3 +37,59 @@
 | green                        | **1**  | **-2** |
 | blue                         | **-2** | -3     |
 
+**White Balance 20 points **
+
+valid only for the above SDR night setting
+
+| value % | Red  | Green | Blue |
+| ------- | ---- | ----- | ---- |
+| 5       | 10   | 0     | 0    |
+| 10      | 10   | 1     | -2   |
+| 15      | 13   | 5     | -10  |
+| 20      | 10   | 2     | -6   |
+| 25      | 3    | 0     | -2   |
+| 30      | 0    | 0     | 0    |
+| 35      | 0    | 4     | 6    |
+| 40      | 4    | 7     | 14   |
+| 45      | 0    | 4     | 13   |
+| 50      | 3    | 6     | 11   |
+| 55      | 0    | 3     | 6    |
+| 60      | 2    | 0     | -2   |
+| 65      | 2    | 2     | 0    |
+| 70      | 1    | -2    | -1   |
+| 75      | 0    | -2    | 4    |
+| 80      | -5   | -5    | -4   |
+| 85      | -7   | -7    | -7   |
+| 90      | -3   | -3    | -3   |
+| 95      | -1   | -1    | -2   |
+| 100     | -2   | -2    | -4   |
+
+**Custom Colour Space**
+
+For tests, it enhances saturation ramps precision for SDR night setting and SDR dim light (Rec709)
+
+**SDR night
+
+warning you must change colour setting to 21 to use that tuning. 
+
+| Colour  | Red  | Green | Blue |
+| ------- | ---- | ----- | ---- |
+| Red     | 65   | 50    | 50   |
+| Green   | 75   | 50    | 42   |
+| Blue    | 66   | 70    | 40   |
+| Yellow  | 55   | 55    | 50   |
+| Cyan    | 70   | 60    | 50   |
+| Magenta | 70   | 50    | 40   |
+
+**SDR dim light**
+
+warning you must set the colour setting to 23 to use that tuning.
+
+| Colour  | Red  | Green | Blue |
+| ------- | ---- | ----- | ---- |
+| Red     | 70   | 50    | 50   |
+| Green   | 60   | 50    | 45   |
+| Blue    | 50   | 60    | 45   |
+| Yellow  | 70   | 70    | 50   |
+| Cyan    | 75   | 70    | 45   |
+| Magenta | 75   | 55    | 40   |

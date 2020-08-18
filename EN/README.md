@@ -8,14 +8,14 @@
 | film mode                  | (disabled)                              |
 
 
-|                        | SDR night          | SDR dim light room | SDR day luminous room  | SDR day live/game/sport | HDR film night (1)   | HDR  film day Maximum | HDR film dim light   | SDR PS4 day gaming     |
+|                        | SDR night          | SDR dim light room | SDR day luminous room  | SDR day live/game/sport | HDR film night (1)   | HDR  film day Maximum | HDR film day/dim     | SDR PS4 day gaming     |
 | ---------------------- | ------------------ | ------------------ | ---------------------- | ----------------------- | -------------------- | --------------------- | -------------------- | ---------------------- |
 | Mode                   | Movie              | **FILMMAKER**      | standard               | **Natural**             | Movie                | **FILMMAKER**         | **FILMMAKER**        | standard               |
-| Max nits               | 115                | 226                | 276                    | x                       | 50%/100% **100/450** | 50%/100% **x/1000**   | 50%/100% **250/750** | x                      |
+| Max nits               | 115                | 226                | 276                    | x                       | 50%/100% **100/450** | 50%/100% **366/1080** | 50%/100% **276/830** | x                      |
 | Brightness             | **11**             | 27                 | 35                     | 40                      | **24**               | **45**                | **40**               | 35                     |
-| Contrast               | **41**             | **41**             | **41**                 | 45                      | **28**               | **50**                | **45**               | 40                     |
+| Contrast               | **41**             | **41**             | **41**                 | 45                      | **26**               | **50**                | **45**               | 40                     |
 | Sharpness              | 1                  | 1                  | 1                      | 1                       | 0                    | 0                     | 0                    | 1                      |
-| Colour                 | **23**             | **22**             | **18**                 | **15**                  | **30**               | **15**                | **22**               | **18**                 |
+| Colour                 | **23**             | **22**             | **18**                 | **15**                  | **30**               | **22**                | **22**               | **18**                 |
 | Tint                   | +1R                | +1R                | +1R                    | +1R                     | +1R                  | +1R                   | +1R                  | +1R                    |
 | Picture Clarity        | custom             | custom             | custom                 | custom                  | custom               | custom                | custom               | **auto**               |
 | Blur reduction         | 7                  | 7                  | 7                      | **10**                  | 7                    | 7                     | 7                    |                        |

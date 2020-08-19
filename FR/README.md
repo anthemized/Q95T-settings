@@ -11,11 +11,11 @@
 |                         | SDR nuit             | SDR piece sombre     | SDR piece lumineuse      | SDR jour jeux/sport | HDR film nuit (1)    | HDR  film jour Maximum | HDR film jour  penombre | SDR PS4 jour jeux        |
 | ----------------------- | -------------------- | -------------------- | ------------------------ | ------------------- | -------------------- | ---------------------- | ----------------------- | ------------------------ |
 | Mode                    | cinema               | **FILMMAKER**        | standard                 | **naturel**         | cinema               | standard               | FILMMAKER               | standard                 |
-| Max nits mesurés        | 115                  | 226                  | 276                      | x                   | 50%/100% **100/450** | 50%/100% **366/1080**  | 50%/100% **276/830**    | x                        |
-| Luminosité              | **11**               | 27                   | 35                       | 40                  | **24**               | **45**                 | **40**                  | 35                       |
-| Contraste               | **41**               | **41**               | **41**                   | 45                  | **26**               | **50**                 | **45**                  | 40                       |
+| Max nits mesurés        | 115                  | 226                  | 276                      | x                   | 50%/100% **100/450** | 50%/100% **254/1016**  | 50%/100% **195/854**    | x                        |
+| Luminosité              | **11**               | 27                   | 35                       | 40                  | **24**               | **50**                 | **44**                  | 35                       |
+| Contraste               | **41**               | **41**               | **41**                   | 45                  | **26**               | **38**                 | **33**                  | 40                       |
 | Netteté                 | 1                    | 1                    | 1                        | 1                   | 0                    | 0                      | 0                       | 1                        |
-| Couleur                 | **23**               | **22**               | **18**                   | **15**              | **30**               | **22**                 | **22**                  | **18**                   |
+| Couleur                 | **23**               | **22**               | **18**                   | **15**              | **30**               | **26**                 | **27**                  | **18**                   |
 | Teinte                  | +1R                  | +1R                  | +1R                      | +1R                 | +1R                  | +1R                    | +1R                     | +1R                      |
 | Clarté de l'image       | perso                | perso                | perso                    | perso/desactivé     | perso                | perso                  | perso                   | **auto**                 |
 | Reduction flou          | 7                    | 7                    | 7                        | **10**              | 7                    | 7                      | 7                       |                          |
@@ -28,7 +28,7 @@
 | Vert                    | reglage/ajout -2/+1  | reglage/ajout -2/+1  | **réglage/ajout -3/1**   |                     | réglage/ajout -5/-1  | réglage/ajout -5/-1    | réglage/ajout -5/-1     | **réglage/ajout -3/1**   |
 | Bleu                    | reglage/ajout -3/-3  | reglage/ajout -3/-3  | **reglage/ajout -3 /-3** |                     | réglage/ajout -12/+1 | réglage/ajout -12/+1   | réglage/ajout -12/+1    | **reglage/ajout 0 /-3**  |
 | Gamma                   | BT1886               | BT1886               | BT1886                   | BT1886              | ST2084               | ST2084                 | ST2084                  | BT1886                   |
-| BT 1886 / ST2084        | -1                   | 0                    | +1                       | 0                   | **-3**               | **-1**                 | **-3**                  | 0                        |
+| BT 1886 / ST2084        | -1                   | 0                    | +1                       | 0                   | **-3**               | **-2**                 | **-2**                  | 0                        |
 | Détail ombre            | +1                   | +2                   | +3                       | 0                   | **-1**               | **0**                  | **0**                   | 0                        |
 | Espace de couleurs      | Auto                 | Auto                 | Auto                     | Natif grisé         | **auto**             | **auto**               | auto                    | **auto**                 |
 

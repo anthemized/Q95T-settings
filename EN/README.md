@@ -11,11 +11,11 @@
 |                        | SDR night          | SDR dim light room | SDR day luminous room  | SDR day live/game/sport | HDR film night (1)   | HDR  film day Maximum | HDR film day/dim     | SDR PS4 day gaming     |
 | ---------------------- | ------------------ | ------------------ | ---------------------- | ----------------------- | -------------------- | --------------------- | -------------------- | ---------------------- |
 | Mode                   | Movie              | **FILMMAKER**      | standard               | **Natural**             | Movie                | **FILMMAKER**         | **FILMMAKER**        | standard               |
-| Max nits               | 115                | 226                | 276                    | x                       | 50%/100% **100/450** | 50%/100% **366/1080** | 50%/100% **276/830** | x                      |
-| Brightness             | **11**             | 27                 | 35                     | 40                      | **24**               | **45**                | **40**               | 35                     |
-| Contrast               | **41**             | **41**             | **41**                 | 45                      | **26**               | **50**                | **45**               | 40                     |
+| Max nits               | 115                | 226                | 276                    | x                       | 50%/100% **100/450** | 50%/100% **254/1016** | 50%/100% **195/854** | x                      |
+| Brightness             | **11**             | 27                 | 35                     | 40                      | **24**               | **50**                | **44**               | 35                     |
+| Contrast               | **41**             | **41**             | **41**                 | 45                      | **26**               | **38**                | **33**               | 40                     |
 | Sharpness              | 1                  | 1                  | 1                      | 1                       | 0                    | 0                     | 0                    | 1                      |
-| Colour                 | **23**             | **22**             | **18**                 | **15**                  | **30**               | **22**                | **22**               | **18**                 |
+| Colour                 | **23**             | **22**             | **18**                 | **15**                  | **30**               | **26**                | **27**               | **18**                 |
 | Tint                   | +1R                | +1R                | +1R                    | +1R                     | +1R                  | +1R                   | +1R                  | +1R                    |
 | Picture Clarity        | custom             | custom             | custom                 | custom                  | custom               | custom                | custom               | **auto**               |
 | Blur reduction         | 7                  | 7                  | 7                      | **10**                  | 7                    | 7                     | 7                    |                        |
@@ -28,7 +28,7 @@
 | green                  | gain/offset -2/+1  | gain/offset -2/+1  | **gain/offset -3/1**   |                         | gain/offset -5/-1    | gain/offset -5/-1     | gain/offset -5/+1    | **gain/offset -3/1**   |
 | blue                   | gain/offset -3/-3  | gain/offset -3/-3  | **gain/offset -3 /-3** |                         | gain/offset -12/+1   | gain/offset -12/+1    | gain/offset -12/+1   | **gain/offset 0 /-3**  |
 | Gamma                  | BT1886             | BT1886             | BT1886                 | BT1886                  | ST2084               | ST2084                | ST2084               | BT1886                 |
-| BT 1886 / ST2084       | **-1**             | 0                  | **+1**                 | 0                       | **-3**               | **-1**                | **-3**               | 0                      |
+| BT 1886 / ST2084       | **-1**             | 0                  | **+1**                 | 0                       | **-3**               | **-2**                | **-2**               | 0                      |
 | Shadow details         | +1                 | +2                 | +3                     | 0                       | **-1**               | **0**                 | **0**                | 0                      |
 | Colour Space           | Auto               | Auto               | Auto                   | Native (greyed)         | **auto**             | **auto**              | **auto**             | **auto**               |
 

@@ -20,7 +20,7 @@
 | Picture Clarity        | custom             | custom             | custom                 | custom                  | custom               | custom                | custom               | **auto**               |
 | Blur reduction         | 7                  | 7                  | 7                      | **10**                  | 7                    | 7                     | 7                    |                        |
 | Judder reduction       | 3                  | 3                  | 3                      | **5**                   | 3                    | 3                     | 3                    |                        |
-| Local Dimming          | Standard           | Standard           | Standard               | Standard                | **Standard**         | **High**              | **Standard**         | Standard               |
+| Local Dimming          | Standard           | Standard           | Standard               | Standard                | **Standard**         | **Standard**          | **Standard**         | Standard               |
 | Contrast Enhancer      | off                | off                | off                    | off                     | **High**             | **low**               | **low**              | off                    |
 | Nuances couleurs       | Warm 2             | Warm 2             | Warm 2                 | Warm 2                  | Warm 2               | Warm 2                | Warm 2               | Warm 2                 |
 | White balance 2 points |                    |                    |                        |                         |                      |                       |                      |                        |

@@ -29,7 +29,7 @@
 | blue                   | gain/offset -3/-3  | gain/offset -3/-3  | **gain/offset -3 /-3** |                         | gain/offset -12/+1   | gain/offset -12/+1    | gain/offset -12/+1   | **gain/offset 0 /-3**  |
 | Gamma                  | BT1886             | BT1886             | BT1886                 | BT1886                  | ST2084               | ST2084                | ST2084               | BT1886                 |
 | BT 1886 / ST2084       | **-1**             | 0                  | **+1**                 | 0                       | **-3**               | **-2**                | **-2**               | 0                      |
-| Shadow details         | +1                 | +2                 | +3                     | 0                       | **-1**               | **0**                 | **0**                | 0                      |
+| Shadow details         | +1                 | +2                 | +3                     | 0                       | **-1**               | **+1**                | **0**                | 0                      |
 | Colour Space           | Auto               | Auto               | Auto                   | Native (greyed)         | **auto**             | **auto**              | **auto**             | **auto**               |
 
 

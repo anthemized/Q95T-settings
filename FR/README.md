@@ -8,7 +8,7 @@
 | Mode film                | (désactivé)                                 |
 
 
-|                         | SDR nuit             | SDR piece sombre     | SDR piece lumineuse      | SDR jour jeux/sport | HDR film nuit (1)    | HDR  film jour Maximum | HDR film jour  penombre | SDR PS4 jour jeux        |
+|                         | SDR nuit             | SDR piece sombre     | SDR piece lumineuse      | SDR jour jeux/sport | HDR film nuit        | HDR  film jour Maximum | HDR film jour  penombre | SDR PS4 jour jeux        |
 | ----------------------- | -------------------- | -------------------- | ------------------------ | ------------------- | -------------------- | ---------------------- | ----------------------- | ------------------------ |
 | Mode                    | cinema               | **FILMMAKER**        | standard                 | **naturel**         | cinema               | standard               | FILMMAKER               | standard                 |
 | Max nits mesurés        | 115                  | 226                  | 276                      | x                   | 50%/100% **100/450** | 50%/100% **254/1016**  | 50%/100% **195/854**    | x                        |
@@ -32,7 +32,7 @@
 | Détail ombre            | +1                   | +2                   | +3                       | 0                   | **-1**               | **0**                  | **0**                   | 0                        |
 | Espace de couleurs      | Auto                 | Auto                 | Auto                     | Natif grisé         | **auto**             | **auto**               | auto                    | **auto**                 |
 
-* (1) HDR nuit est le seul réglage HDR qui arrive a respecter la courbe EOTF standard  en gamma 2.4
+
 
 | Balance blancs 2points en cours d'utilisation SDR | ajout  | reglage |
 | ------------------------------------------------- | ------ | ------- |

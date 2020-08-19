@@ -8,7 +8,7 @@
 | film mode                  | (disabled)                              |
 
 
-|                        | SDR night          | SDR dim light room | SDR day luminous room  | SDR day live/game/sport | HDR film night (1)   | HDR  film day Maximum | HDR film day/dim     | SDR PS4 day gaming     |
+|                        | SDR night          | SDR dim light room | SDR day luminous room  | SDR day live/game/sport | HDR film night       | HDR  film day Maximum | HDR film day/dim     | SDR PS4 day gaming     |
 | ---------------------- | ------------------ | ------------------ | ---------------------- | ----------------------- | -------------------- | --------------------- | -------------------- | ---------------------- |
 | Mode                   | Movie              | **FILMMAKER**      | standard               | **Natural**             | Movie                | **FILMMAKER**         | **FILMMAKER**        | standard               |
 | Max nits               | 115                | 226                | 276                    | x                       | 50%/100% **100/450** | 50%/100% **254/1016** | 50%/100% **195/854** | x                      |
@@ -32,7 +32,7 @@
 | Shadow details         | +1                 | +2                 | +3                     | 0                       | **-1**               | **0**                 | **0**                | 0                      |
 | Colour Space           | Auto               | Auto               | Auto                   | Native (greyed)         | **auto**             | **auto**              | **auto**             | **auto**               |
 
-(1) HDR night is the only setting that is able to comply to HDR EOTF curve (gamma 2.4) 
+
 
 | White Balance 2points in use SDR | offset | gain   |
 | -------------------------------- | ------ | ------ |

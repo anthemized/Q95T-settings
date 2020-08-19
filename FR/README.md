@@ -10,7 +10,7 @@
 
 |                         | SDR nuit             | SDR piece sombre     | SDR piece lumineuse      | SDR jour jeux/sport | HDR film nuit        | HDR  film jour Maximum | HDR film jour  penombre | SDR PS4 jour jeux        |
 | ----------------------- | -------------------- | -------------------- | ------------------------ | ------------------- | -------------------- | ---------------------- | ----------------------- | ------------------------ |
-| Mode                    | cinema               | **FILMMAKER**        | standard                 | **naturel**         | cinema               | standard               | FILMMAKER               | standard                 |
+| Mode                    | cinema               | **FILMMAKER**        | standard                 | **naturel**         | cinema               | FILMMAKER              | FILMMAKER               | standard                 |
 | Max nits mesurés        | 115                  | 226                  | 276                      | x                   | 50%/100% **100/450** | 50%/100% **254/1016**  | 50%/100% **195/854**    | x                        |
 | Luminosité              | **11**               | 27                   | 35                       | 40                  | **24**               | **50**                 | **44**                  | 35                       |
 | Contraste               | **41**               | **41**               | **41**                   | 45                  | **26**               | **38**                 | **33**                  | 40                       |

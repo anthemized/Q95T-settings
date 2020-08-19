@@ -26,7 +26,7 @@
 | Balance blanc 2 points  |                      |                      |                          |                     |                      |                        |                         |                          |
 | Rouge                   | réglage/ajout +14/+3 | réglage/ajout +14/+3 | **réglage/ajout +15/+2** |                     | réglage/ajout +16/+2 | réglage/ajout +16/+2   | réglage/ajout +16/+2    | **réglage/ajout +15/+2** |
 | Vert                    | reglage/ajout -2/+1  | reglage/ajout -2/+1  | **réglage/ajout -3/1**   |                     | réglage/ajout -5/-1  | réglage/ajout -5/-1    | réglage/ajout -5/-1     | **réglage/ajout -3/1**   |
-| Bleu                    | reglage/ajout -3/-2  | reglage/ajout -3/-2  | **reglage/ajout -3 /-3** |                     | réglage/ajout -12/+1 | réglage/ajout -12/+1   | réglage/ajout -12/+1    | **reglage/ajout 0 /-3**  |
+| Bleu                    | reglage/ajout -3/-3  | reglage/ajout -3/-3  | **reglage/ajout -3 /-3** |                     | réglage/ajout -12/+1 | réglage/ajout -12/+1   | réglage/ajout -12/+1    | **reglage/ajout 0 /-3**  |
 | Gamma                   | BT1886               | BT1886               | BT1886                   | BT1886              | ST2084               | ST2084                 | ST2084                  | BT1886                   |
 | BT 1886 / ST2084        | -1                   | 0                    | +1                       | 0                   | **-3**               | **-1**                 | **-3**                  | 0                        |
 | Détail ombre            | +1                   | +2                   | +3                       | 0                   | **-1**               | **0**                  | **0**                   | 0                        |
@@ -38,7 +38,7 @@
 | ------------------------------------------------- | ------ | ------- |
 | rouge                                             | **+3** | +14     |
 | vert                                              | **1**  | **-2**  |
-| bleu                                              | **-2** | -3      |
+| bleu                                              | **-3** | -3      |
 
 | Balance blancs 2points en cours d'utilisation HDR | ajout  | reglage |
 | ------------------------------------------------- | ------ | ------- |
@@ -52,18 +52,18 @@ valable seulement pour le réglage SDR nuit précédent.
 
 | Valeur % | Rouge | Vert | Bleu |
 | -------- | ----- | ---- | ---- |
-| 5        | 10    | 0    | 0    |
-| 10       | 10    | 1    | -2   |
+| 5        | 5     | 0    | -3   |
+| 10       | 10    | 1    | -3   |
 | 15       | 13    | 5    | -10  |
 | 20       | 10    | 2    | -6   |
 | 25       | 3     | 0    | -2   |
 | 30       | 0     | 0    | 0    |
 | 35       | 0     | 4    | 6    |
-| 40       | 4     | 7    | 14   |
+| 40       | 2     | 7    | 14   |
 | 45       | 0     | 4    | 13   |
 | 50       | 3     | 6    | 11   |
 | 55       | 0     | 3    | 6    |
-| 60       | 2     | 0    | -2   |
+| 60       | 2     | 0    | 1    |
 | 65       | 2     | 2    | 0    |
 | 70       | 1     | -2   | -1   |
 | 75       | 0     | -2   | 4    |
@@ -83,20 +83,20 @@ attention il faut changer la saturation a 21
 
 | Couleur | Rouge | Vert | Bleu |
 | ------- | ----- | ---- | ---- |
-| Rouge   | 65    | 50   | 50   |
-| Vert    | 75    | 50   | 42   |
-| Bleu    | 66    | 70   | 40   |
+| Rouge   | 70    | 70   | 55   |
+| Vert    | 75    | 45   | 45   |
+| Bleu    | 70    | 70   | 50   |
 | Jaune   | 55    | 55   | 50   |
 | Cyan    | 70    | 60   | 50   |
 | Magenta | 70    | 50   | 40   |
 
 **SDR Pénombre/jour**
 
-attention il faut changer la saturation a 23 
+attention il faut changer la saturation a 22 
 
 | Couleur | Rouge | Vert | Bleu |
 | ------- | ----- | ---- | ---- |
-| Rouge   | 70    | 50   | 50   |
+| Rouge   | 70    | 60   | 50   |
 | Vert    | 60    | 50   | 45   |
 | Bleu    | 50    | 60   | 45   |
 | Jaune   | 70    | 70   | 50   |

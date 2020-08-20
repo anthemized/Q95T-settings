@@ -22,7 +22,7 @@
 | Judder reduction       | 3                  | 3                  | 3                      | **5**                   | 3                    | 3                     | 3                    |                        |
 | Local Dimming          | Standard           | Standard           | Standard               | Standard                | **Standard**         | **Standard**          | **Standard**         | Standard               |
 | Contrast Enhancer      | off                | off                | off                    | off                     | **High**             | **low**               | **low**              | off                    |
-| Nuances couleurs       | Warm 2             | Warm 2             | Warm 2                 | Warm 2                  | Warm 2               | Warm 2                | Warm 2               | Warm 2                 |
+| Colour Temperature     | Warm 2             | Warm 2             | Warm 2                 | Warm 2                  | Warm 2               | Warm 2                | Warm 2               | Warm 2                 |
 | White balance 2 points |                    |                    |                        |                         |                      |                       |                      |                        |
 | red                    | gain/offset +14/+3 | gain/offset +14/+3 | **gain/offset +15/+2** |                         | gain/offset +16/+2   | gain/offset +16/+2    | gain/offset +16/+2   | **gain/offset +15/+2** |
 | green                  | gain/offset -2/+1  | gain/offset -2/+1  | **gain/offset -3/1**   |                         | gain/offset -5/-1    | gain/offset -5/-1     | gain/offset -5/+1    | **gain/offset -3/1**   |

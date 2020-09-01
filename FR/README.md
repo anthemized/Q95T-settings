@@ -29,7 +29,7 @@
 | Bleu                    | reglage/ajout -3/-3       | reglage/ajout -3/-3              | reglage/ajout -3/-3  | **reglage/ajout -3 /-3** |                     | réglage/ajout -12/+1 | réglage/ajout -12/+1   | réglage/ajout -12/+1    | **reglage/ajout 0 /-3**  |
 | Gamma                   | BT1886                    | BT1886                           | BT1886               | BT1886                   | BT1886              | ST2084               | ST2084                 | ST2084                  | BT1886                   |
 | BT 1886 / ST2084        | -1                        | -1                               | 0                    | +1                       | 0                   | **-3**               | **-2**                 | **-2**                  | 0                        |
-| Détail ombre            | +1                        | 0                                | +2                   | +3                       | 0                   | **-1**               | **+1**                 | **0**                   | 0                        |
+| Détail ombre            | +1                        | +1                               | +2                   | +3                       | 0                   | **-1**               | **+1**                 | **0**                   | 0                        |
 | Espace de couleurs      | Auto                      | Auto                             | Auto                 | Auto                     | Natif grisé         | **auto**             | **auto**               | auto                    | **auto**                 |
 
 

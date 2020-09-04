@@ -13,7 +13,7 @@
 | Mode                   | Movie              | Movie                         | **FILMMAKER**      | standard               | **Natural**             | Movie                | **FILMMAKER**         | **FILMMAKER**        | standard               |
 | Max nits               | 115                | 115                           | 226                | 276                    | x                       | 50%/100% **100/450** | 50%/100% **254/1016** | 50%/100% **195/854** | x                      |
 | Brightness             | **11**             | **15**                        | 27                 | 35                     | 40                      | **24**               | **50**                | **44**               | 35                     |
-| Contrast               | **41**             | **27**                        | **41**             | **41**                 | 45                      | **26**               | **38**                | **33**               | 40                     |
+| Contrast               | **41**             | **27**                        | **41**             | **41**                 | 15                      | **26**               | **38**                | **33**               | 40                     |
 | Sharpness              | 1                  | 1                             | 1                  | 1                      | 1                       | 0                    | 0                     | 0                    | 1                      |
 | Colour                 | **23**             | **25**                        | **22**             | **18**                 | **15**                  | **30**               | **26**                | **27**               | **18**                 |
 | Tint                   | +1R                | 0                             | +1R                | +1R                    | +1R                     | +1R                  | +1R                   | +1R                  | +1R                    |
@@ -29,7 +29,7 @@
 | blue                   | gain/offset -3/-3  | gain/offset -3/-3             | gain/offset -3/-3  | **gain/offset -3 /-3** |                         | gain/offset -12/+1   | gain/offset -12/+1    | gain/offset -12/+1   | **gain/offset 0 /-3**  |
 | Gamma                  | BT1886             | BT1886                        | BT1886             | BT1886                 | BT1886                  | ST2084               | ST2084                | ST2084               | BT1886                 |
 | BT 1886 / ST2084       | **0**              | **-1**                        | 0                  | **+1**                 | 0                       | **-3**               | **-2**                | **-2**               | 0                      |
-| Shadow details         | +1                 | +1                            | +2                 | +3                     | 0                       | **-1**               | **+1**                | **0**                | 0                      |
+| Shadow details         | +1                 | +1                            | +2                 | +3                     | +3                      | **-1**               | **+1**                | **0**                | 0                      |
 | Colour Space           | Auto               | Auto                          | Auto               | Auto                   | Native (greyed)         | **auto**             | **auto**              | **auto**             | **auto**               |
 
 

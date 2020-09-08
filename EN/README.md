@@ -8,29 +8,29 @@
 | film mode                  | (disabled)                              |
 
 
-|                        | SDR night BT1886   | SDR night   alternative  G2.4 | SDR dim light room | SDR day luminous room  | SDR day live/game/sport | HDR film night       | HDR  film day Maximum | HDR film day/dim     | SDR PS4 day gaming     |
-| ---------------------- | ------------------ | ----------------------------- | ------------------ | ---------------------- | ----------------------- | -------------------- | --------------------- | -------------------- | ---------------------- |
-| Mode                   | Movie              | Movie                         | **FILMMAKER**      | standard               | **Natural**             | Movie                | **FILMMAKER**         | **FILMMAKER**        | standard               |
-| Max nits               | 115                | 115                           | 226                | 276                    | x                       | 50%/100% **100/450** | 50%/100% **254/1016** | 50%/100% **195/854** | x                      |
-| Brightness             | **11**             | **15**                        | 27                 | 35                     | 40                      | **24**               | **50**                | **44**               | 35                     |
-| Contrast               | **41**             | **27**                        | **41**             | **41**                 | 20                      | **26**               | **38**                | **33**               | 40                     |
-| Sharpness              | 1                  | 1                             | 1                  | 1                      | 1                       | 0                    | 0                     | 0                    | 1                      |
-| Colour                 | **23**             | **25**                        | **22**             | **18**                 | **21**                  | **30**               | **26**                | **27**               | **18**                 |
-| Tint                   | +1R                | 0                             | +1R                | +1R                    | +1R                     | +1R                  | +1R                   | +1R                  | +1R                    |
-| Picture Clarity        | custom             | custom                        | custom             | custom                 | custom                  | custom               | custom                | custom               | **auto**               |
-| Blur reduction         | 7                  | 7                             | 7                  | 7                      | **10**                  | 7                    | 7                     | 7                    |                        |
-| Judder reduction       | 3                  | 3                             | 3                  | 3                      | **5**                   | 3                    | 3                     | 3                    |                        |
-| Local Dimming          | Standard           | Standard                      | Standard           | Standard               | Standard                | **Standard**         | **Standard**          | **Standard**         | Standard               |
-| Contrast Enhancer      | off                | off                           | off                | off                    | off                     | **High**             | **low**               | **low**              | off                    |
-| Colour Temperature     | Warm 2             | Warm2                         | Warm 2             | Warm 2                 | Warm 2                  | Warm 2               | Warm 2                | Warm 2               | Warm 2                 |
-| White balance 2 points |                    |                               |                    |                        |                         |                      |                       |                      |                        |
-| red                    | gain/offset +14/+3 | gain/offset **+18**/+4        | gain/offset +14/+3 | **gain/offset +15/+2** |                         | gain/offset +16/+2   | gain/offset +16/+2    | gain/offset +16/+2   | **gain/offset +15/+2** |
-| green                  | gain/offset -2/+1  | gain/offset **0**/+1          | gain/offset -2/+1  | **gain/offset -3/1**   |                         | gain/offset -5/-1    | gain/offset -5/-1     | gain/offset -5/+1    | **gain/offset -3/1**   |
-| blue                   | gain/offset -3/-3  | gain/offset -3/-3             | gain/offset -3/-3  | **gain/offset -3 /-3** |                         | gain/offset -12/+1   | gain/offset -12/+1    | gain/offset -12/+1   | **gain/offset 0 /-3**  |
-| Gamma                  | BT1886             | BT1886                        | BT1886             | BT1886                 | BT1886                  | ST2084               | ST2084                | ST2084               | BT1886                 |
-| BT 1886 / ST2084       | **0**              | **-1**                        | 0                  | **+1**                 | 0                       | **-3**               | **-2**                | **-2**               | 0                      |
-| Shadow details         | +1                 | +1                            | +2                 | +3                     | +3                      | **-1**               | **+1**                | **0**                | 0                      |
-| Colour Space           | Auto               | Auto                          | Auto               | Auto                   | Native (greyed)         | **auto**             | **auto**              | **auto**             | **auto**               |
+|                        | SDR night BT1886   | SDR night   alternative  G2.4 | SDR dim G2.3              | SDR day BT1886     | SDR day luminous G2.2  | SDR day live/game/sport | HDR film night       | HDR  film day Maximum | HDR film day/dim     | SDR PS4 day gaming     |
+| ---------------------- | ------------------ | ----------------------------- | ------------------------- | ------------------ | ---------------------- | ----------------------- | -------------------- | --------------------- | -------------------- | ---------------------- |
+| Mode                   | Movie              | Movie                         | **FILMMAKER**             | **FILMMAKER**      | standard               | **Natural**             | Movie                | **FILMMAKER**         | **FILMMAKER**        | standard               |
+| Max nits               | 115                | 115                           | 160                       | 226                | 276                    | x                       | 50%/100% **100/450** | 50%/100% **254/1016** | 50%/100% **195/854** | x                      |
+| Brightness             | **11**             | **15**                        | 26                        | 27                 | 35                     | 40                      | **24**               | **50**                | **44**               | 35                     |
+| Contrast               | **41**             | **27**                        | 25                        | **41**             | **41**                 | 20                      | **26**               | **38**                | **33**               | 40                     |
+| Sharpness              | 1                  | 1                             | 1                         | 1                  | 1                      | 1                       | 0                    | 0                     | 0                    | 1                      |
+| Colour                 | **23**             | **25**                        | 24                        | **22**             | **18**                 | **21**                  | **30**               | **26**                | **27**               | **18**                 |
+| Tint                   | +1R                | 0                             | 0                         | +1R                | +1R                    | +1R                     | +1R                  | +1R                   | +1R                  | +1R                    |
+| Picture Clarity        | custom             | custom                        | custom                    | custom             | custom                 | custom                  | custom               | custom                | custom               | **auto**               |
+| Blur reduction         | 7                  | 7                             | 7                         | 7                  | 7                      | **10**                  | 7                    | 7                     | 7                    |                        |
+| Judder reduction       | 3                  | 3                             | 3                         | 3                  | 3                      | **5**                   | 3                    | 3                     | 3                    |                        |
+| Local Dimming          | Standard           | Standard                      | Standard                  | Standard           | Standard               | Standard                | **Standard**         | **Standard**          | **Standard**         | Standard               |
+| Contrast Enhancer      | off                | off                           | off                       | off                | off                    | off                     | **High**             | **low**               | **low**              | off                    |
+| Colour Temperature     | Warm 2             | Warm2                         | Warm2                     | Warm 2             | Warm 2                 | Warm 2                  | Warm 2               | Warm 2                | Warm 2               | Warm 2                 |
+| White balance 2 points |                    |                               |                           |                    |                        |                         |                      |                       |                      |                        |
+| red                    | gain/offset +14/+3 | gain/offset **+18**/+4        | gain/offset **+18**/+4    | gain/offset +14/+3 | **gain/offset +15/+2** |                         | gain/offset +16/+2   | gain/offset +16/+2    | gain/offset +16/+2   | **gain/offset +15/+2** |
+| green                  | gain/offset -2/+1  | gain/offset **0**/+1          | gain/offset **-2**/**+4** | gain/offset -2/+1  | **gain/offset -3/1**   |                         | gain/offset -5/-1    | gain/offset -5/-1     | gain/offset -5/+1    | **gain/offset -3/1**   |
+| blue                   | gain/offset -3/-3  | gain/offset -3/-3             | gain/offset -3/**+2**     | gain/offset -3/-3  | **gain/offset -3 /-3** |                         | gain/offset -12/+1   | gain/offset -12/+1    | gain/offset -12/+1   | **gain/offset 0 /-3**  |
+| Gamma                  | BT1886             | BT1886                        | BT1886                    | BT1886             | BT1886                 | BT1886                  | ST2084               | ST2084                | ST2084               | BT1886                 |
+| BT 1886 / ST2084       | **0**              | **-1**                        | 0                         | 0                  | **+1**                 | 0                       | **-3**               | **-2**                | **-2**               | 0                      |
+| Shadow details         | +1                 | +1                            | +1                        | +2                 | +3                     | +3                      | **-1**               | **+1**                | **0**                | 0                      |
+| Colour Space           | Auto               | Auto                          | Auto                      | Auto               | Auto                   | Native (greyed)         | **auto**             | **auto**              | **auto**             | **auto**               |
 
 
 
@@ -115,11 +115,22 @@ warning you must keep colour setting to 25 to use that tuning.
 | Cyan    | 80   | 60    | 50   |
 | Magenta | 70   | 50    | 40   |
 
+**SDR dim G2.3**
+
+warning you must set the colour setting to 22 to use that tuning.
+
+| Colour  | Red  | Green | Blue |
+| ------- | ---- | ----- | ---- |
+| Red     | 50   | 45    | 35   |
+| Green   | 75   | 60    | 60   |
+| Blue    | 50   | 40    | 55   |
+| Yellow  | 70   | 70    | 55   |
+| Cyan    | 75   | 75    | 45   |
+| Magenta | 75   | 65    | 40   |
 
 
 
-
-**SDR dim light**
+**SDR day** BT1886
 
 warning you must set the colour setting to 22 to use that tuning.
 

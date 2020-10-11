@@ -11,12 +11,12 @@
 |                         | SDR nuit BT1886     | SDR nuit    G2.4         | SDR sombre G2.4             | SDR sombreTV BT1886      | SDR jour BT1886     | SDR lumineux G2.2        | SDR jour jeux/sport | HDR film nuit        | HDR  film jour Maximum | HDR film jour  penombre | SDR PS4 jour jeux        |
 | ----------------------- | ------------------- | ------------------------ | --------------------------- | ------------------------ | ------------------- | ------------------------ | ------------------- | -------------------- | ---------------------- | ----------------------- | ------------------------ |
 | Mode                    | cinema              | cinema                   | **FILMMAKER**               | **FILMMAKER**            | standard            | standard                 | **naturel**         | cinema               | FILMMAKER              | **standard**            | standard                 |
-| Max nits mesurés        | 115                 | 103                      | 150                         | 182                      | 222                 | 276                      | x                   | 50%/100% **100/450** | 50%/100% **254/1016**  | 50%/100% **195/854**    | x                        |
+| Max nits mesurés        | 110                 | 103                      | 150                         | 182                      | 222                 | 276                      | x                   | 50%/100% **100/450** | 50%/100% **287/1150**  | 50%/100% **195/854**    | x                        |
 | Luminosité              | **17**              | 14                       | 24                          | **32**                   | 40                  | 35                       | 40                  | **24**               | **50**                 | **44**                  | 35                       |
 | Contraste               | **20**              | 25                       | 22                          | **17**                   | **25**              | **41**                   | 20                  | **26**               | **38**                 | **41**                  | 40                       |
 | Netteté                 | 1                   | 1                        | 1                           | 1                        | 1                   | 1                        | 1                   | 0                    | 0                      | 0                       | 1                        |
 | Couleur                 | **25**              | **25**                   | **25**                      | **24**                   | **16**              | **16**                   | **21**              | **30**               | **30**                 | **20**                  | **18**                   |
-| Teinte                  | 0                   | 0                        | 0                           | 0                        | 0                   | 0                        | +1R                 | +1R                  | +1R                    | +1R                     | +1R                      |
+| Teinte                  | 0                   | 0                        | 0                           | 0                        | 0                   | 0                        | 0                   | +1R                  | +1R                    | +1R                     | 0                        |
 | Clarté de l'image       | perso               | perso                    | perso                       | perso                    | perso               | perso                    | perso/desactivé     | perso                | perso                  | perso                   | **auto**                 |
 | Reduction flou          | 7                   | 7                        | 7                           | 7                        | 7                   | 7                        | **10**              | 7                    | 7                      | 7                       |                          |
 | Réduction vibration     | 3                   | 3                        | 3                           | 3                        | 3                   | 3                        | **5**               | 3                    | 3                      | 3                       |                          |
@@ -25,12 +25,30 @@
 | Nuances couleurs        | Chaude 2            | Chaude2                  | Chaude2                     | Chaude2                  | Chaude 2            | Chaude 2                 | Chaude 2            | Chaude 2             | Chaude 2               | Chaude 2                | Chaude 2                 |
 | Balance blanc 2 points  |                     |                          |                             |                          |                     |                          |                     |                      |                        |                         |                          |
 | Rouge                   | réglage/ajout +14/0 | réglage/ajout **+18**/+8 | réglage/ajout **+18**/+10   | réglage/ajout **+14**/+2 | réglage/ajout +22/0 | **réglage/ajout +15/+2** |                     | réglage/ajout +16/+2 | réglage/ajout +16/+2   | réglage/ajout +16/+2    | **réglage/ajout +15/+2** |
-| Vert                    | reglage/ajout -6/0  | reglage/ajout **-2**/+6  | reglage/ajout **-2**/**+9** | reglage/ajout **-6/0     | reglage/ajout -2/+1 | **réglage/ajout -3/1**   |                     | réglage/ajout -5/-1  | réglage/ajout -5/-1    | réglage/ajout -5/-1     | **réglage/ajout -3/1**   |
+| Vert                    | reglage/ajout -6/0  | reglage/ajout **-2**/+6  | reglage/ajout **-2**/**+9** | reglage/ajout **-6/0**   | reglage/ajout -2/+1 | **réglage/ajout -3/1**   |                     | réglage/ajout -5/-1  | réglage/ajout -5/-1    | réglage/ajout -5/-1     | **réglage/ajout -3/1**   |
 | Bleu                    | reglage/ajout -6/-6 | reglage/ajout -3/-2      | reglage/ajout -3/**1**      | reglage/ajout -8/**-3**  | reglage/ajout -1/-3 | **reglage/ajout -3 /-3** |                     | réglage/ajout -12/+1 | réglage/ajout -12/+1   | réglage/ajout -12/+1    | **reglage/ajout 0 /-3**  |
 | Gamma                   | BT1886              | BT1886                   | BT1886                      | BT1886                   | BT1886              | BT1886                   | BT1886              | ST2084               | ST2084                 | ST2084                  | BT1886                   |
 | BT 1886 / ST2084        | 0                   | **-1**                   | **-1**                      | 0                        | 0                   | +1                       | 0                   | **-3**               | **-2**                 | **-2**                  | 0                        |
 | Détail ombre            | +1                  | 0                        | 0                           | +1                       | +2                  | +3                       | +3                  | **-1**               | **+1**                 | **0**                   | 0                        |
 | Espace de couleurs      | Auto                | Auto                     | Auto                        | Auto                     | Auto                | Auto                     | Natif grisé         | **auto**             | **auto**               | auto                    | **auto**                 |
+
+
+
+**Mode Jeu PS4 HDR**:
+
++ setting PS4 
+  + yuv 420
+  + HDR auto
+  + couleurs etendues auto
++ appliquer le setting HDR jour MAX +
+  + attenuation locale : élevé
+  + constraste amélioré : bas 
++ régler le HDR dans les settings de la PS4.
+
++ HGIG off , mais comparer avec et sans si gain visible.
+
++ contraste amélioré , paramètre du menu jeu : 5
++ garder le game motion flow sur on
 
 
 

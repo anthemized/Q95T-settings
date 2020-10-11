@@ -8,14 +8,14 @@
 | Mode film                | (désactivé)                                 |
 
 
-|                         | SDR nuit BT1886     | SDR nuit    G2.4         | SDR sombre G2.4             | SDR sombreTV BT1886      | SDR jour BT1886     | SDR lumineux G2.2        | SDR jour jeux/sport | HDR film nuit        | HDR  film jour Maximum | HDR film jour  penombre | SDR PS4 jour jeux        |
+|                         | SDR nuit BT1886     | SDR nuit    G2.4         | SDR sombre G2.4             | SDR sombreTV BT1886      | SDR jour BT1886     | SDR lumineux G2.2        | SDR jour jeux/sport | HDR film nuit        | HDR  film jour HDR1000 | HDR film jour  penombre | SDR PS4 jour jeux        |
 | ----------------------- | ------------------- | ------------------------ | --------------------------- | ------------------------ | ------------------- | ------------------------ | ------------------- | -------------------- | ---------------------- | ----------------------- | ------------------------ |
 | Mode                    | cinema              | cinema                   | **FILMMAKER**               | **FILMMAKER**            | standard            | standard                 | **naturel**         | cinema               | FILMMAKER              | **standard**            | standard                 |
-| Max nits mesurés        | 110                 | 103                      | 150                         | 182                      | 222                 | 276                      | x                   | 50%/100% **100/450** | 50%/100% **287/1150**  | 50%/100% **195/854**    | x                        |
-| Luminosité              | **17**              | 14                       | 24                          | **32**                   | 40                  | 35                       | 40                  | **24**               | **50**                 | **44**                  | 35                       |
+| Max nits mesurés        | 110                 | 103                      | 150                         | 182                      | 222                 | 276                      | x                   | 50%/100% **100/450** | 50%/100% **270/1024**  | 50%/100% **195/854**    | x                        |
+| Luminosité              | **17**              | 14                       | 24                          | **32**                   | 40                  | 35                       | 40                  | **24**               | **44**                 | **44**                  | 35                       |
 | Contraste               | **20**              | 25                       | 22                          | **17**                   | **25**              | **41**                   | 20                  | **26**               | **38**                 | **41**                  | 40                       |
 | Netteté                 | 1                   | 1                        | 1                           | 1                        | 1                   | 1                        | 1                   | 0                    | 0                      | 0                       | 1                        |
-| Couleur                 | **25**              | **25**                   | **25**                      | **24**                   | **16**              | **16**                   | **21**              | **30**               | **30**                 | **20**                  | **18**                   |
+| Couleur                 | **25**              | **25**                   | **25**                      | **24**                   | **16**              | **16**                   | **21**              | **30**               | **25**                 | **20**                  | **18**                   |
 | Teinte                  | 0                   | 0                        | 0                           | 0                        | 0                   | 0                        | 0                   | +1R                  | +1R                    | +1R                     | 0                        |
 | Clarté de l'image       | perso               | perso                    | perso                       | perso                    | perso               | perso                    | perso/desactivé     | perso                | perso                  | perso                   | **auto**                 |
 | Reduction flou          | 7                   | 7                        | 7                           | 7                        | 7                   | 7                        | **10**              | 7                    | 7                      | 7                       |                          |
@@ -154,8 +154,8 @@ Gamme de couleurs : BT2020
 
 | Couleur | Rouge | Vert | Bleu |
 | ------- | ----- | ---- | ---- |
-| Rouge   | 65    | 65   | 35   |
-| Vert    | 70    | 40   | 30   |
+| Rouge   | 50    | 55   | 35   |
+| Vert    | 50    | 50   | 50   |
 | Bleu    | 60    | 90   | 50   |
 | Jaune   | 50    | 50   | 50   |
 | Cyan    | 50    | 50   | 50   |
@@ -169,11 +169,11 @@ Gamme de couleurs : BT2020
 
 | Couleur | Rouge | Vert | Bleu |
 | ------- | ----- | ---- | ---- |
-| Rouge   | 90    | 65   | 37   |
-| Vert    | 50    | 50   | 50   |
-| Bleu    | 55    | 80   | 45   |
+| Rouge   | 50    | 50   | 30   |
+| Vert    | 35    | 60   | 35   |
+| Bleu    | 45    | 65   | 55   |
 | Jaune   | 50    | 50   | 40   |
-| Cyan    | 65    | 65   | 50   |
+| Cyan    | 50    | 35   | 50   |
 | Magenta | 65    | 50   | 50   |
 
 

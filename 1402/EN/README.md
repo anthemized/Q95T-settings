@@ -11,12 +11,12 @@
 |                        | SDR night BT1886  | SDR night   alternative  G2.4 | SDR dim G2.4              | SDR dimTV BT1886       | SDR day BT1886     | SDR day luminous G2.2  | SDR day live/game/sport | HDR film night       | HDR  film HDR1000     | HDR film MaxNits      | SDR PS4 day gaming     |
 | ---------------------- | ----------------- | ----------------------------- | ------------------------- | ---------------------- | ------------------ | ---------------------- | ----------------------- | -------------------- | --------------------- | --------------------- | ---------------------- |
 | Mode                   | Movie             | Movie                         | **FILMMAKER**             | **FILMMAKER**          | standard           | standard               | **Natural**             | Movie                | **FILMMAKER**         | **FILMMAKER**         | standard               |
-| Max nits               | 110               | 103                           | 150                       | 182                    | 222                | 276                    | x                       | 50%/100% **100/450** | 50%/100% **270/1024** | 50%/100% **300/1200** | x                      |
-| Brightness             | **17**            | 14                            | 24                        | **32**                 | 40                 | 35                     | 40                      | **24**               | **44**                | **50**                | 35                     |
-| Contrast               | **20**            | 25                            | 22                        | **17**                 | **25**             | **41**                 | 20                      | **26**               | **38**                | **38**                | 40                     |
+| Max nits               | 110               | 103                           | 150                       | 182                    | 222                | 276                    | x                       | 50%/100% **100/474** | 50%/100% **270/1024** | 50%/100% **300/1200** | x                      |
+| Brightness             | **17**            | 14                            | 24                        | **32**                 | 40                 | 35                     | 40                      | **30**               | **44**                | **50**                | 35                     |
+| Contrast               | **20**            | 25                            | 22                        | **17**                 | **25**             | **41**                 | 20                      | **20**               | **38**                | **38**                | 40                     |
 | Sharpness              | 1                 | 1                             | 1                         | 1                      | 1                  | 1                      | 1                       | 0                    | 0                     | 0                     | 1                      |
 | Colour                 | **25**            | **25**                        | **25**                    | **24**                 | **16**             | **16**                 | **21**                  | **30**               | **25**                | **30**                | **18**                 |
-| Tint                   | 0                 | 0                             | 0                         | 0                      | 0                  | 0                      | 0                       | +1R                  | +1R                   | +1R                   | +1R                    |
+| Tint                   | 0                 | 0                             | 0                         | 0                      | 0                  | 0                      | 0                       | +2R                  | +1R                   | +1R                   | +1R                    |
 | Picture Clarity        | custom            | custom                        | custom                    | custom                 | custom             | custom                 | custom                  | custom               | custom                | custom                | **auto**               |
 | Blur reduction         | 7                 | 7                             | 7                         | 7                      | 7                  | 7                      | **10**                  | 7                    | 7                     | 7                     |                        |
 | Judder reduction       | 3                 | 3                             | 3                         | 3                      | 3                  | 3                      | **5**                   | 3                    | 3                     | 3                     |                        |
@@ -26,7 +26,7 @@
 | White balance 2 points |                   |                               |                           |                        |                    |                        |                         |                      |                       |                       |                        |
 | red                    | gain/offset +14/0 | gain/offset **+18**/+8        | gain/offset **+18**/+10   | gain/offset **+14**/+2 | gain/offset +14/+3 | **gain/offset +15/+2** |                         | gain/offset +16/+2   | gain/offset +16/+2    | gain/offset +16/+2    | **gain/offset +15/+2** |
 | green                  | gain/offset -6/0  | gain/offset **-2**/+6         | gain/offset **-2**/**+9** | gain/offset **-6/0**   | gain/offset -2/+1  | **gain/offset -3/1**   |                         | gain/offset -5/-1    | gain/offset -5/-1     | gain/offset -5/+1     | **gain/offset -3/1**   |
-| blue                   | gain/offset -6/-6 | gain/offset -3/-2             | gain/offset -3/**1**      | gain/offset -8/**-3**  | gain/offset -3/-3  | **gain/offset -3 /-3** |                         | gain/offset -13/+5   | gain/offset -13/+5    | gain/offset -13/+5    | **gain/offset 0 /-3**  |
+| blue                   | gain/offset -6/-6 | gain/offset -3/-2             | gain/offset -3/**1**      | gain/offset -8/**-3**  | gain/offset -3/-3  | **gain/offset -3 /-3** |                         | gain/offset -11/+1   | gain/offset -13/+5    | gain/offset -13/+5    | **gain/offset 0 /-3**  |
 | Gamma                  | BT1886            | BT1886                        | BT1886                    | BT1886                 | BT1886             | BT1886                 | BT1886                  | ST2084               | ST2084                | ST2084                | BT1886                 |
 | BT 1886 / ST2084       | **0**             | **-1**                        | -1                        | 0                      | 0                  | **+1**                 | 0                       | **-3**               | **-2**                | **-1**                | 0                      |
 | Shadow details         | +1                | 0                             | 0                         | +1                     | +2                 | +3                     | +3                      | **-1**               | **+1**                | **0**                 | 0                      |
@@ -138,12 +138,12 @@ Colour space : BT2020
 
 | Colour  | Red  | Green | Blue |
 | ------- | ---- | ----- | ---- |
-| Red     | 65   | 65    | 35   |
-| Green   | 70   | 40    | 30   |
-| Blue    | 60   | 90    | 50   |
-| Yellow  | 50   | 50    | 50   |
+| Red     | 50   | 60    | 30   |
+| Green   | 40   | 55    | 40   |
+| Blue    | 45   | 90    | 60   |
+| Yellow  | 70   | 50    | 40   |
 | Cyan    | 50   | 50    | 50   |
-| Magenta | 50   | 50    | 50   |
+| Magenta | 70   | 45    | 50   |
 
 
 
@@ -153,7 +153,7 @@ Colour space : BT2020
 
 | Colour  | Red  | Green | Blue |
 | ------- | ---- | ----- | ---- |
-| Red     | 50   | 50    | 30   |
+| Red     | 50   | 55    | 35   |
 | Green   | 35   | 60    | 35   |
 | Blue    | 45   | 65    | 55   |
 | Yellow  | 50   | 50    | 40   |

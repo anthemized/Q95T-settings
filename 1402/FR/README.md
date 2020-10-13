@@ -161,7 +161,7 @@ Gamme de couleurs : BT2020
 | Cyan    | 50    | 50   | 50   |
 | Magenta | 70    | 45   | 50   |
 
-**HDR jour ** HDR1000
+**HDR jour HDR1000**
 
 améliore grandement la précision en BT2020
 

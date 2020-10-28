@@ -36,29 +36,29 @@
 
 ### HDR settings
 
-|                         | HDR film nuit        | HDR film nuit altern | HDR  film nuit HDR550 | HDR  film jour HDR1000 | HDR film jour  MaxNits |
-| ----------------------- | -------------------- | -------------------- | --------------------- | ---------------------- | ---------------------- |
-| Mode                    | cinema               | cinema               | cinema                | FILMMAKER              | Filmmaker              |
-| Max nits mesurés        | 50%/100% **100/474** | 50%/100% **100/450** | 50%/100% **100/540**  | 50%/100% **270/1090**  | 50%/100% **300/1200**  |
-| Luminosité              | **30**               | **19**               | **40**                | **44**                 | **50**                 |
-| Contraste               | **20**               | **35**               | **13**                | **38**                 | **38**                 |
-| Netteté                 | 0                    | 0                    | 0                     | 0                      | 0                      |
-| Couleur                 | **30**               | **27**               | **35**                | **25**                 | **30**                 |
-| Teinte                  | +2R                  | +2R                  | +2R                   | +1R                    | +1R                    |
-| Clarté de l'image       | perso                | perso                | perso                 | perso                  | perso                  |
-| Reduction flou          | 7                    | 7                    | 7                     | 7                      | 7                      |
-| Réduction vibration     | 3                    | 3                    | 3                     | 3                      | 3                      |
-| Attenuation locale      | **standard**         | **standard**         | **standard**          | **standard**           | **standard**           |
-| Amelioration contrastes | **élevé**            | **bas**              | **élevé**             | **bas**                | **bas**                |
-| Nuances couleurs        | Chaude 2             | Chaude2              | Chaude 2              | Chaude 2               | Chaude 2               |
-| Balance blanc 2 points  |                      |                      |                       |                        |                        |
-| Rouge                   | réglage/ajout +16/+2 | réglage/ajout +16/+2 | réglage/ajout +16/+2  | réglage/ajout +16/+2   | réglage/ajout +16/+2   |
-| Vert                    | réglage/ajout -7/-1  | réglage/ajout -7/-1  | réglage/ajout -7/-1   | réglage/ajout -5/-1    | réglage/ajout -5/-1    |
-| Bleu                    | réglage/ajout -8/0   | réglage/ajout -8/0   | réglage/ajout -8/0    | réglage/ajout -13/+5   | réglage/ajout -13/+5   |
-| Gamma                   | ST2084               | ST2084               | ST2084                | ST2084                 | ST2084                 |
-| BT 1886 / ST2084        | **-3**               | **-2**               | **-3**                | **-2**                 | **-1**                 |
-| Détail ombre            | **0**                | **0**                | **0**                 | **+1**                 | **0**                  |
-| Espace de couleurs      | **perso(1)**         | **perso(1)**         | **perso(1)**          | **perso(1)**           | **perso(1)**           |
+|                         | HDR  nuit 4K 60Hz     uniquement | HDR film nuit        | HDR film nuit altern | HDR  film nuit HDR550 | HDR  film jour HDR1000 | HDR film jour  MaxNits |
+| ----------------------- | -------------------------------- | -------------------- | -------------------- | --------------------- | ---------------------- | ---------------------- |
+| Mode                    | cinema                           | cinema               | cinema               | cinema                | FILMMAKER              | Filmmaker              |
+| Max nits mesurés        | 50%/100% **100/400**             | 50%/100% **100/474** | 50%/100% **100/450** | 50%/100% **100/540**  | 50%/100% **270/1090**  | 50%/100% **300/1200**  |
+| Luminosité              | 50                               | **30**               | **19**               | **40**                | **44**                 | **50**                 |
+| Contraste               | 25                               | **20**               | **35**               | **13**                | **38**                 | **38**                 |
+| Netteté                 |                                  | 0                    | 0                    | 0                     | 0                      | 0                      |
+| Couleur                 | 28                               | **30**               | **27**               | **35**                | **25**                 | **30**                 |
+| Teinte                  | +2R                              | +2R                  | +2R                  | +2R                   | +1R                    | +1R                    |
+| Clarté de l'image       | off                              | perso                | perso                | perso                 | perso                  | perso                  |
+| Reduction flou          |                                  | 7                    | 7                    | 7                     | 7                      | 7                      |
+| Réduction vibration     |                                  | 3                    | 3                    | 3                     | 3                      | 3                      |
+| Attenuation locale      | **BAS**  (sinon bug)             | **standard**         | **standard**         | **standard**          | **standard**           | **standard**           |
+| Amelioration contrastes | **élevé**                        | **élevé**            | **bas**              | **élevé**             | **bas**                | **bas**                |
+| Nuances couleurs        | Chaude 2                         | Chaude 2             | Chaude2              | Chaude 2              | Chaude 2               | Chaude 2               |
+| Balance blanc 2 points  |                                  |                      |                      |                       |                        |                        |
+| Rouge                   | réglage/ajout +16/+2             | réglage/ajout +16/+2 | réglage/ajout +16/+2 | réglage/ajout +16/+2  | réglage/ajout +16/+2   | réglage/ajout +16/+2   |
+| Vert                    | réglage/ajout -7/-1              | réglage/ajout -7/-1  | réglage/ajout -7/-1  | réglage/ajout -7/-1   | réglage/ajout -5/-1    | réglage/ajout -5/-1    |
+| Bleu                    | réglage/ajout -8/0               | réglage/ajout -8/0   | réglage/ajout -8/0   | réglage/ajout -8/0    | réglage/ajout -13/+5   | réglage/ajout -13/+5   |
+| Gamma                   | ST2084                           | ST2084               | ST2084               | ST2084                | ST2084                 | ST2084                 |
+| BT 1886 / ST2084        | **-1**                           | **-3**               | **-2**               | **-3**                | **-2**                 | **-1**                 |
+| Détail ombre            | **-1**                           | **0**                | **0**                | **0**                 | **+1**                 | **0**                  |
+| Espace de couleurs      | **perso(1)**                     | **perso(1)**         | **perso(1)**         | **perso(1)**          | **perso(1)**           | **perso(1)**           |
 
 
 

@@ -1,3 +1,7 @@
+## Reglages valides pour firmware 1402 1403 1460.
+
+
+
 | Mode intelligent         | Off (tous les modes)                        |
 | ------------------------ | ------------------------------------------- |
 | Luminosité auto          | Off (tous les modes)                        |
@@ -14,10 +18,10 @@
 | ----------------------- | ------------------- | ------------------------ | ------------------------ | --------------------------- | ------------------------ | ------------------- | ------------------------ | ----------------------------------------------- |
 | Mode                    | cinema              | cinema                   | cinema                   | **FILMMAKER**               | **FILMMAKER**            | standard            | standard                 | Jeux                                            |
 | Max nits mesurés        | 110                 | 103                      | 103                      | 150                         | 182                      | 222                 | 276                      | x                                               |
-| Luminosité              | **17**              | 14                       | 15                       | 24                          | **32**                   | 40                  | 35                       | 35                                              |
-| Contraste               | **20**              | 25                       | 25                       | 22                          | **17**                   | **25**              | **41**                   | 40                                              |
+| Luminosité              | **17**              | 14                       | 15                       | 24                          | **32**                   | 40                  | 35                       | 50                                              |
+| Contraste               | **20**              | 25                       | 25                       | 22                          | **17**                   | **25**              | **41**                   | 38                                              |
 | Netteté                 | 1                   | 1                        | 1                        | 1                           | 1                        | 1                   | 1                        | 1                                               |
-| Couleur                 | **25**              | **25**                   | 24                       | **25**                      | **24**                   | **16**              | **16**                   | **18**                                          |
+| Couleur                 | **25**              | **25**                   | 24                       | **25**                      | **24**                   | **16**              | **16**                   | **26 à 30**                                     |
 | Teinte                  | 0                   | 0                        | 0                        | 0                           | 0                        | 0                   | 0                        | 0                                               |
 | Clarté de l'image       | perso               | perso                    | perso                    | perso                       | perso                    | perso               | perso                    | **auto**                                        |
 | Reduction flou          | 7                   | 7                        | 7                        | 7                           | 7                        | 7                   | 7                        | **Jeux Motion Plus ON**                         |
@@ -81,7 +85,7 @@
 
 + HGIG off , mais comparer avec et sans si gain visible.
 
-+ contraste amélioré , paramètre du menu jeu : 5
++ egaliseur dynamique d'image, paramètre du menu jeu : 5
 + garder le game motion flow sur on
 
 

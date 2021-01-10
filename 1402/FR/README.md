@@ -79,8 +79,11 @@
   + HDR auto
   + couleurs etendues auto
 + appliquer le setting HDR jour MAX +
-  + attenuation locale : élevé
-  + constraste amélioré : bas 
+  + couleurs 26 (26-30 ,  30 devrait être la bonne valeur mais j'ai désaturé)
+  + atténuation locale : standard
+  + contraste amélioré : bas 
+  + ST2038 -1
+  + ombres -1
 + régler le HDR dans les settings de la PS4.
 
 + HGIG off , mais comparer avec et sans si gain visible.

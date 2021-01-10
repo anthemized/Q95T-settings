@@ -68,6 +68,32 @@
 
 *** favorites
 
+**Game mode PS4 HDR**:
+
+- setting on the PS4
+  - yuv 420
+  - HDR auto
+  - extended colors  auto
+- on the TV engage game mode ,
+  - check with the info that you are receiving HDR signal (button 123 ok ok on the remote) 
+- apply my  HDR film MaxNits:
+  - brightness/contrast: 50/38
+  - color 26  (should be 30 ,but it seems i desaturated a bit , just try 26-30)
+  - local dimming : standard
+  - enhanced contrast  : low
+  - ST2084 -1
+  - shadow details -1
+  - custom colour space : HDR day Max one.
+- then calibrate HDR in PS4 setting , this set the max nit emission.
+- HGIG off , but try with or without to see if it improves (here not)
+- on samsung TV : dynamic egalizer, game mode parameter : 5 , game motion flow on
+
+
+
+
+
+
+
 **White Balance 20 points **
 
 valid only for the above SDR night setting

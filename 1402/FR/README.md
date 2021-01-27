@@ -92,12 +92,12 @@
 
 
 
-**Pseudo Mode jeu  pour PC en HDR 120Hz** ou **PS4 60Hz**
+**Pseudo Mode jeu  pour PC en HDR 60Hz** ou **PS4 60Hz**
 
-le mode jeu dégrade la HDR,  l'idée est d'utiliser le mode standard avec un réglage HDR  maxnit standard et de forcer la fréquence en 120Hz sans entrer dans le mode dégradé de la TV.
+le mode jeu dégrade la HDR,  l'idée est d'utiliser le mode standard avec un réglage HDR  maxnit standard et de forcer la fréquence en 60Hz sans entrer dans le mode dégradé de la TV.
 
-- Pour cela il faut faire une manipulation sur la declaration de la source HDMI du PC , ne pas choisir "PC" , mais autre chose comme  "HOME CINEMA", puis le renommer a votre convenance.Cela permet de garder les modes cinema/filmmaker/standard meme a haute frequence 60Hz ou 120Hz
-- configurer la sortie de la carte graphique  en yuv422 1080p   10Bits  120Hz (PS4 2K ou 4K 60Hz)
+- Pour cela il faut faire une manipulation sur la declaration de la source HDMI du PC , ne pas choisir "PC" , mais autre chose comme  "HOME CINEMA", puis le renommer a votre convenance.Cela permet de garder les modes cinema/filmmaker/standard meme a haute frequence 60Hz
+- configurer la sortie de la carte graphique  en yuv422 1080p   10Bits  60Hz (PS4 2K ou 4K 60Hz)
 - activer le HDR dans windows
 - entrer le reglage HDR MAxnit  Standard.
 

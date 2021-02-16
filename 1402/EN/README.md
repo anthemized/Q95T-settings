@@ -40,29 +40,29 @@
 
 ### HDR Settings
 
-|                        | HDR night 60Hz only (dimming bugs) | HDR  film night High *** | HDR film night Standard | HDR film night HDR550 | HDR  film HDR1000     | HDR film HDR1000 High *** | HDR film MaxNits      |
-| ---------------------- | ---------------------------------- | ------------------------ | ----------------------- | --------------------- | --------------------- | ------------------------- | --------------------- |
-| Mode                   | Movie                              | Movie                    | Movie                   | Movie                 | **FILMMAKER**         | **FILMMAKER**             | **FILMMAKER**         |
-| Max nits               | 50%/100% **100/400**               | 50%/100% **100/450**     | 50%/100% **100/450**    | 50%/100% **100/550**  | 50%/100% **270/1090** | 50%/100% **250/1034**     | 50%/100% **300/1200** |
-| Brightness             | 50                                 | **32**                   | **19**                  | **40**                | **44**                | **50**                    | **50**                |
-| Contrast               | 25                                 | **25**                   | **35**                  | **13**                | **38**                | **32**                    | **38**                |
-| Sharpness              | 0                                  | 0                        | 0                       | 0                     | 0                     | 0                         | 0                     |
-| Colour                 | 28                                 | **30**                   | **27**                  | **35**                | **25**                | **28**                    | **30**                |
-| Tint                   | +2R                                | +2R                      | +2R                     | +2R                   | +1R                   | +1R                       | +1R                   |
-| Picture Clarity        | off                                | custom                   | custom                  | custom                | custom                | custom                    | custom                |
-| Blur reduction         |                                    | 7                        | 7                       | 7                     | 7                     | 7                         | 7                     |
-| Judder reduction       |                                    | 3                        | 3                       | 3                     | 3                     | 3                         | 3                     |
-| Local Dimming          | **low** ( bug  prevent)            | **High**                 | **Standard**            | **Standard**          | **Standard**          | **High**                  | **Standard**          |
-| Contrast Enhancer      | **High**                           | **High**                 | **Low**                 | **High**              | **low**               | **High**                  | **low**               |
-| Colour Temperature     | Warm2                              | Warm2                    | Warm 2                  | Warm 2                | Warm 2                | Warm2                     | Warm 2                |
-| White balance 2 points |                                    |                          |                         |                       |                       |                           |                       |
-| red                    | gain/offset +16/+2                 | gain/offset +16/+2       | gain/offset +16/+2      | gain/offset +16/+2    | gain/offset +16/+2    | gain/offset +16/+2        | gain/offset +16/+2    |
-| green                  | gain/offset -7/-1                  | gain/offset -7/-1        | gain/offset -7/-1       | gain/offset -7/-1     | gain/offset -5/-1     | gain/offset -5/-1         | gain/offset -5/+1     |
-| blue                   | gain/offset -8/0                   | gain/offset -8/0         | gain/offset -8/0        | gain/offset -8/0      | gain/offset -10/0     | gain/offset -10/0         | gain/offset -10/0     |
-| Gamma                  | ST2084                             | ST2084                   | ST2084                  | ST2084                | ST2084                | ST2084                    | ST2084                |
-| BT 1886 / ST2084       | **-1**                             | **-2**                   | **-2**                  | **-3**                | **-2**                | **-2**                    | **-1**                |
-| Shadow details         | **-1**                             | 0                        | 0                       | 0                     | **0**                 | **0**                     | **0**                 |
-| Colour Space           | **perso(1)**                       | **perso(1)**             | **perso(1)**            | **perso(1)**          | **perso(1)**          | **perso(1)**              | **perso(1)**          |
+|                        | HDR night 60Hz only (dimming bugs) | HDR  film night High *** | HDR film night Standard | HDR film night HDR550 | HDR  film HDR1000     | HDR film HDR1000 High *** | HDR film MaxNits      | HDR Maxnit Standard /altenative to game mode |
+| ---------------------- | ---------------------------------- | ------------------------ | ----------------------- | --------------------- | --------------------- | ------------------------- | --------------------- | -------------------------------------------- |
+| Mode                   | Movie                              | Movie                    | Movie                   | Movie                 | **FILMMAKER**         | **FILMMAKER**             | **FILMMAKER**         | Standard                                     |
+| Max nits               | 50%/100% **100/400**               | 50%/100% **100/450**     | 50%/100% **100/450**    | 50%/100% **100/550**  | 50%/100% **270/1090** | 50%/100% **250/1034**     | 50%/100% **300/1200** | 50%/100% **300/1200**                        |
+| Brightness             | 50                                 | **32**                   | **19**                  | **40**                | **44**                | **50**                    | **50**                | **50**                                       |
+| Contrast               | 25                                 | **25**                   | **35**                  | **13**                | **38**                | **32**                    | **38**                | **40**                                       |
+| Sharpness              | 0                                  | 0                        | 0                       | 0                     | 0                     | 0                         | 0                     | 0                                            |
+| Colour                 | 28                                 | **30**                   | **27**                  | **35**                | **25**                | **28**                    | **30**                | **18**                                       |
+| Tint                   | +2R                                | +2R                      | +2R                     | +2R                   | +1R                   | +1R                       | +1R                   | +**3R**                                      |
+| Picture Clarity        | off                                | custom                   | custom                  | custom                | custom                | custom                    | custom                | off                                          |
+| Blur reduction         |                                    | 7                        | 7                       | 7                     | 7                     | 7                         | 7                     | x                                            |
+| Judder reduction       |                                    | 3                        | 3                       | 3                     | 3                     | 3                         | 3                     | x                                            |
+| Local Dimming          | **low** ( bug  prevent)            | **High**                 | **Standard**            | **Standard**          | **Standard**          | **High**                  | **Standard**          | **High**                                     |
+| Contrast Enhancer      | **High**                           | **High**                 | **Low**                 | **High**              | **low**               | **High**                  | **low**               | **High**                                     |
+| Colour Temperature     | Warm2                              | Warm2                    | Warm 2                  | Warm 2                | Warm 2                | Warm2                     | Warm 2                | Warm2                                        |
+| White balance 2 points |                                    |                          |                         |                       |                       |                           |                       |                                              |
+| red                    | gain/offset +16/+2                 | gain/offset +16/+2       | gain/offset +16/+2      | gain/offset +16/+2    | gain/offset +16/+2    | gain/offset +16/+2        | gain/offset +16/+2    | gain/offset +16/+2                           |
+| green                  | gain/offset -7/-1                  | gain/offset -7/-1        | gain/offset -7/-1       | gain/offset -7/-1     | gain/offset -5/-1     | gain/offset -5/-1         | gain/offset -5/+1     | gain/offset -5/+1                            |
+| blue                   | gain/offset -8/0                   | gain/offset -8/0         | gain/offset -8/0        | gain/offset -8/0      | gain/offset -10/0     | gain/offset -10/0         | gain/offset -10/0     | gain/offset -10/0                            |
+| Gamma                  | ST2084                             | ST2084                   | ST2084                  | ST2084                | ST2084                | ST2084                    | ST2084                | ST2084                                       |
+| BT 1886 / ST2084       | **-1**                             | **-2**                   | **-2**                  | **-3**                | **-2**                | **-2**                    | **-1**                | -2                                           |
+| Shadow details         | **-1**                             | 0                        | 0                       | 0                     | **0**                 | **0**                     | **0**                 | **-3**                                       |
+| Colour Space           | **perso(1)**                       | **perso(1)**             | **perso(1)**            | **perso(1)**          | **perso(1)**          | **perso(1)**              | **perso(1)**          | perso(1)                                     |
 
 (1) use the personalised colour spaces described below
 
@@ -90,7 +90,16 @@
 
 
 
+**Pseudo Game Mode jeu  for PC  HDR 60Hz** or **PS4 60Hz**
 
+Game mode is not able to do full HDR luminosity. The idea is to use the Standard mode  with a HDR maxnit  setting, and to force frequency to 60Hz, to prevent degraded mode of the TV
+
+- Change hdmi source declaration , dont use the PC  predefined label. but choose home cinema for example and change its name to Win10 for example.
+- set GPU to yuv422 1080p 10 bits 60Hz  (leave all auto in PS4)
+- activate HDR in windows display panel.
+- enter the HDR maxnit Standard
+
+you will have a better latency than cinema/filmmaker modes (motion clarity off), the right curve for HDR and a peak at 1200nits.
 
 
 

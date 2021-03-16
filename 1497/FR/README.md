@@ -19,9 +19,9 @@
 | Mode                    | cinema              | cinema                   | cinema                   | **FILMMAKER**               | **FILMMAKER**            | standard            | standard                 | Jeux                                            |
 | Max nits mesurés        | 110                 | 103                      | 103                      | 150                         | 182                      | 222                 | 276                      | x                                               |
 | Luminosité              | **17**              | 14                       | 15                       | 24                          | **32**                   | 40                  | 35                       | 50                                              |
-| Contraste               | **20**              | 25                       | 25                       | 22                          | **17**                   | **25**              | **41**                   | 38                                              |
+| Contraste               | **20**              | 25                       | 25                       | 22                          | **17**                   | **25**              | **41**                   | 50                                              |
 | Netteté                 | 1                   | 1                        | 1                        | 1                           | 1                        | 1                   | 1                        | 1                                               |
-| Couleur                 | **25**              | **25**                   | 24                       | **25**                      | **24**                   | **16**              | **16**                   | **26 à 30**                                     |
+| Couleur                 | **25**              | **25**                   | 24                       | **25**                      | **24**                   | **16**              | **16**                   | 15                                              |
 | Teinte                  | 0                   | 0                        | 0                        | 0                           | 0                        | 0                   | 0                        | 0                                               |
 | Clarté de l'image       | perso               | perso                    | perso                    | perso                       | perso                    | perso               | perso                    | **auto**                                        |
 | Reduction flou          | 7                   | 7                        | 7                        | 7                           | 7                        | 7                   | 7                        | **Jeux Motion Plus ON**                         |
@@ -30,13 +30,13 @@
 | Amelioration contrastes | Désactivé           | Désactivé                | Désactivé                | Desactivé                   | Desactivé                | Désactivé           | Désactivé                | Désactivé + **Egaliseur Dynamique D'image = 5** |
 | Nuances couleurs        | Chaude 2            | Chaude2                  | Chaude2                  | Chaude2                     | Chaude2                  | Chaude 2            | Chaude 2                 | Chaude 2                                        |
 | Balance blanc 2 points  |                     |                          |                          |                             |                          |                     |                          |                                                 |
-| Rouge                   | réglage/ajout +14/0 | réglage/ajout **+18**/+8 | réglage/ajout **+18**/+8 | réglage/ajout **+18**/+10   | réglage/ajout **+14**/+2 | réglage/ajout +22/0 | **réglage/ajout +15/+2** | **réglage/ajout +15/+2**                        |
-| Vert                    | reglage/ajout -6/0  | reglage/ajout **-2**/+6  | reglage/ajout **-2**/+6  | reglage/ajout **-2**/**+9** | reglage/ajout **-6/0**   | reglage/ajout -2/+1 | **réglage/ajout -3/1**   | **réglage/ajout -3/1**                          |
-| Bleu                    | reglage/ajout -6/-6 | reglage/ajout -3/-2      | reglage/ajout -3/-2      | reglage/ajout -3/**1**      | reglage/ajout -8/**-3**  | reglage/ajout -1/-3 | **reglage/ajout -3 /-3** | **reglage/ajout 0 /-3**                         |
+| Rouge                   | réglage/ajout +14/0 | réglage/ajout **+18**/+8 | réglage/ajout **+18**/+8 | réglage/ajout **+18**/+10   | réglage/ajout **+14**/+2 | réglage/ajout +22/0 | **réglage/ajout +15/+2** | **réglage/ajout +16/+2**                        |
+| Vert                    | reglage/ajout -6/0  | reglage/ajout **-2**/+6  | reglage/ajout **-2**/+6  | reglage/ajout **-2**/**+9** | reglage/ajout **-6/0**   | reglage/ajout -2/+1 | **réglage/ajout -3/1**   | **réglage/ajout -5/1**                          |
+| Bleu                    | reglage/ajout -6/-6 | reglage/ajout -3/-2      | reglage/ajout -3/-2      | reglage/ajout -3/**1**      | reglage/ajout -8/**-3**  | reglage/ajout -1/-3 | **reglage/ajout -3 /-3** | **reglage/ajout -12 /1**                        |
 | Gamma                   | BT1886              | BT1886                   | BT1886                   | BT1886                      | BT1886                   | BT1886              | BT1886                   | BT1886                                          |
 | BT 1886 / ST2084        | 0                   | **-1**                   | **-2**                   | **-1**                      | 0                        | 0                   | +1                       | 0                                               |
-| Détail ombre            | +1                  | 0                        | **+1**                   | 0                           | +1                       | +2                  | +3                       | 0                                               |
-| Espace de couleurs      | Auto/perso          | Auto/perso               | Auto/perso               | Auto/perso                  | Auto/perso               | Auto/perso          | Auto/perso               | **auto**                                        |
+| Détail ombre            | +1                  | 0                        | **+1**                   | 0                           | +1                       | +2                  | +3                       | +3                                              |
+| Espace de couleurs      | Auto/perso          | Auto/perso               | Auto/perso               | Auto/perso                  | Auto/perso               | Auto/perso          | Auto/perso               | **auto**/perso                                  |
 
 *** favoris
 
@@ -198,6 +198,19 @@ valable seulement pour le réglage SDR nuit précédent.
 | Jaune   | 70    | 70   | 40   |
 | Cyan    | 65    | 70   | 50   |
 | Magenta | 90    | 65   | 25   |
+
+
+
+**SDR jour** jeux
+
+| Couleur | Rouge | Vert | Bleu |
+| ------- | ----- | ---- | ---- |
+| Rouge   | 15    | 34   | 34   |
+| Vert    | 50    | 50   | 50   |
+| Bleu    | 50    | 50   | 50   |
+| Jaune   | 50    | 50   | 50   |
+| Cyan    | 50    | 50   | 50   |
+| Magenta | 50    | 50   | 50   |
 
 
 

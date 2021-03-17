@@ -78,13 +78,15 @@
   + yuv 420
   + HDR auto
   + couleurs etendues auto
-+ appliquer le setting HDR jour MAX +
-  + luminosité/contraste **50/50**   (nuit : **50/29**)
-  + couleurs **22**
++ activer le  reglage du HDR dans les settings de la PS4.
++ appliquer le setting HDR
+  + luminosité/contraste **50/37**  
+  + couleurs **21**
   + atténuation locale : élevé
   + contraste amélioré : élevé
-  + ST2084 **0** (-1 -2 a tester)
+  + ST2084 **-3** 
   + ombres **-2**
+  + balance de couleurs HDR Maxnit mode standard 
 + régler le HDR dans les settings de la PS4.
 + HGIG off , mais comparer avec et sans si gain visible.
 + egaliseur dynamique d'image, paramètre du menu jeu : 5

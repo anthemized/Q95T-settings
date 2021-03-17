@@ -74,15 +74,17 @@
   - yuv 420
   - HDR auto
   - extended colors  auto
+- on the PS4 engage HDR by entering HDR calibration menu.
 - on the TV engage game mode ,
   - check with the info that you are receiving HDR signal (button 123 ok ok on the remote) 
-- apply my  HDR film MaxNits:
-  - brightness/contrast: **50/50** (night 50/29)
-  - color **22** 
+- apply 
+  - brightness/contrast: **50/37**
+  - color **21** 
   - local dimming : **high**
   - enhanced contrast  : **high**
-  - ST2084 **0**
+  - ST2084 **-3**
   - shadow details **-2**
+  - white balance HDR MAxnits standard mode
   - custom colour space : HDR game (below)
 - then calibrate HDR in PS4 setting , this set the max nit emission.
 - HGIG off , but try with or without to see if it improves (here not)

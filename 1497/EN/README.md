@@ -12,29 +12,29 @@
 ### SDR Settings
 
 
-|                        | SDR night BT1886  | SDR night   G2.4       | SDR night2   G2.4 ***  | SDR dim G2.4 ***          | SDR dimTV BT1886 ***   | SDR day BT1886     | SDR day luminous G2.2  | SDR PS4 day gaming      |
-| ---------------------- | ----------------- | ---------------------- | ---------------------- | ------------------------- | ---------------------- | ------------------ | ---------------------- | ----------------------- |
-| Mode                   | Movie             | Movie                  | Movie                  | **FILMMAKER**             | **FILMMAKER**          | standard           | standard               | **Game**                |
-| Max nits               | 110               | 103                    | 103                    | 150                       | 182                    | 222                | 276                    | x                       |
-| Brightness             | **17**            | 14                     | 15                     | 24                        | **32**                 | 40                 | 35                     | 50                      |
-| Contrast               | **20**            | 25                     | 25                     | 22                        | **17**                 | **25**             | **41**                 | 25                      |
-| Sharpness              | 1                 | 1                      | 1                      | 1                         | 1                      | 1                  | 1                      | 1                       |
-| Colour                 | **25**            | **25**                 | **24**                 | **25**                    | **24**                 | **16**             | **16**                 | **15**                  |
-| Tint                   | 0                 | 0                      | 0                      | 0                         | 0                      | 0                  | 0                      | +1R                     |
-| Picture Clarity        | custom            | custom                 | custom                 | custom                    | custom                 | custom             | custom                 | **auto**                |
-| Blur reduction         | 7                 | 7                      | 7                      | 7                         | 7                      | 7                  | 7                      | **Game Motion Plus on** |
-| Judder reduction       | 3                 | 3                      | 3                      | 3                         | 3                      | 3                  | 3                      |                         |
-| Local Dimming          | Standard          | Standard               | Standard               | Standard                  | Standard               | Standard           | Standard               | Standard                |
-| Contrast Enhancer      | off               | off                    | off                    | off                       | off                    | off                | off                    | off  **+dynamizer 5**   |
-| Colour Temperature     | Warm 2            | Warm2                  | Warm2                  | Warm2                     | Warm2                  | Warm 2             | Warm 2                 | Warm 2                  |
-| White balance 2 points |                   |                        |                        |                           |                        |                    |                        |                         |
-| red                    | gain/offset +14/0 | gain/offset **+18**/+8 | gain/offset **+18**/+8 | gain/offset **+18**/+10   | gain/offset **+14**/+2 | gain/offset +14/+3 | **gain/offset +15/+2** | **gain/offset +16/+2**  |
-| green                  | gain/offset -6/0  | gain/offset **-2**/+6  | gain/offset **-2**/+6  | gain/offset **-2**/**+9** | gain/offset **-6/0**   | gain/offset -2/+1  | **gain/offset -3/1**   | **gain/offset -5/1**    |
-| blue                   | gain/offset -6/-6 | gain/offset -3/-2      | gain/offset -3/-2      | gain/offset -3/**1**      | gain/offset -8/**-3**  | gain/offset -3/-3  | **gain/offset -3 /-3** | **gain/offset -13 /-1** |
-| Gamma                  | BT1886            | BT1886                 | BT1886                 | BT1886                    | BT1886                 | BT1886             | BT1886                 | BT1886                  |
-| BT 1886 / ST2084       | **0**             | **-1**                 | **-2**                 | -1                        | 0                      | 0                  | **+1**                 | 0                       |
-| Shadow details         | +1                | 0                      | **+1**                 | 0                         | +1                     | +2                 | +3                     | 0                       |
-| Colour Space           | Auto/perso        | Auto/perso             | Auto/perso             | Auto/perso                | Auto/perso             | Auto/perso         | Auto                   | **auto/perso**          |
+|                        | SDR night BT1886  | SDR night   G2.4       | SDR night2   G2.4 ***  | SDR dim G2.4 ***          | SDR dimTV BT1886 ***   | SDR day BT1886     | SDR day luminous G2.2  | SDR PS4 day gaming       |
+| ---------------------- | ----------------- | ---------------------- | ---------------------- | ------------------------- | ---------------------- | ------------------ | ---------------------- | ------------------------ |
+| Mode                   | Movie             | Movie                  | Movie                  | **FILMMAKER**             | **FILMMAKER**          | standard           | standard               | **Game**                 |
+| Max nits               | 110               | 103                    | 103                    | 150                       | 182                    | 222                | 276                    | x                        |
+| Brightness             | **17**            | 14                     | 15                     | 24                        | **32**                 | 40                 | 35                     | 50                       |
+| Contrast               | **20**            | 25                     | 25                     | 22                        | **17**                 | **25**             | **41**                 | 25                       |
+| Sharpness              | 1                 | 1                      | 1                      | 1                         | 1                      | 1                  | 1                      | 1                        |
+| Colour                 | **25**            | **25**                 | **24**                 | **25**                    | **24**                 | **16**             | **16**                 | **15**                   |
+| Tint                   | 0                 | 0                      | 0                      | 0                         | 0                      | 0                  | 0                      | +1R                      |
+| Picture Clarity        | custom            | custom                 | custom                 | custom                    | custom                 | custom             | custom                 | **auto**                 |
+| Blur reduction         | 7                 | 7                      | 7                      | 7                         | 7                      | 7                  | 7                      | **Game Motion Plus off** |
+| Judder reduction       | 3                 | 3                      | 3                      | 3                         | 3                      | 3                  | 3                      |                          |
+| Local Dimming          | Standard          | Standard               | Standard               | Standard                  | Standard               | Standard           | Standard               | Standard                 |
+| Contrast Enhancer      | off               | off                    | off                    | off                       | off                    | off                | off                    | off  **+dynamizer 5**    |
+| Colour Temperature     | Warm 2            | Warm2                  | Warm2                  | Warm2                     | Warm2                  | Warm 2             | Warm 2                 | Warm 2                   |
+| White balance 2 points |                   |                        |                        |                           |                        |                    |                        |                          |
+| red                    | gain/offset +14/0 | gain/offset **+18**/+8 | gain/offset **+18**/+8 | gain/offset **+18**/+10   | gain/offset **+14**/+2 | gain/offset +14/+3 | **gain/offset +15/+2** | **gain/offset +16/+2**   |
+| green                  | gain/offset -6/0  | gain/offset **-2**/+6  | gain/offset **-2**/+6  | gain/offset **-2**/**+9** | gain/offset **-6/0**   | gain/offset -2/+1  | **gain/offset -3/1**   | **gain/offset -5/1**     |
+| blue                   | gain/offset -6/-6 | gain/offset -3/-2      | gain/offset -3/-2      | gain/offset -3/**1**      | gain/offset -8/**-3**  | gain/offset -3/-3  | **gain/offset -3 /-3** | **gain/offset -13 /-1**  |
+| Gamma                  | BT1886            | BT1886                 | BT1886                 | BT1886                    | BT1886                 | BT1886             | BT1886                 | BT1886                   |
+| BT 1886 / ST2084       | **0**             | **-1**                 | **-2**                 | -1                        | 0                      | 0                  | **+1**                 | 0                        |
+| Shadow details         | +1                | 0                      | **+1**                 | 0                         | +1                     | +2                 | +3                     | 0                        |
+| Colour Space           | Auto/perso        | Auto/perso             | Auto/perso             | Auto/perso                | Auto/perso             | Auto/perso         | Auto                   | **auto/perso**           |
 
 *** favorites
 
@@ -88,7 +88,7 @@
   - custom colour space : HDR game (below)
 - then calibrate HDR in PS4 setting , this set the max nit emission.
 - HGIG off , but try with or without to see if it improves (here not)
-- on samsung TV : dynamic egalizer, game mode parameter : 5 , game motion flow on
+- on samsung TV : dynamic egalizer, game mode parameter : 5 , game motion flow off (@Hood62 : loss of luminosity)
 
 
 

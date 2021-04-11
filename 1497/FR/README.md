@@ -24,7 +24,7 @@
 | Couleur                 | **25**              | **25**                   | 24                       | **25**                      | **24**                   | **16**              | **16**                   | 15                                              |
 | Teinte                  | 0                   | 0                        | 0                        | 0                           | 0                        | 0                   | 0                        | 0                                               |
 | Clarté de l'image       | perso               | perso                    | perso                    | perso                       | perso                    | perso               | perso                    | **auto**                                        |
-| Reduction flou          | 7                   | 7                        | 7                        | 7                           | 7                        | 7                   | 7                        | **Jeux Motion Plus ON**                         |
+| Reduction flou          | 7                   | 7                        | 7                        | 7                           | 7                        | 7                   | 7                        | **Jeux Motion Plus OFF**                        |
 | Réduction vibration     | 3                   | 3                        | 3                        | 3                           | 3                        | 3                   | 3                        |                                                 |
 | Attenuation locale      | Standard            | Standard                 | Standard                 | Standard                    | Standard                 | Standard            | Standard                 | Standard                                        |
 | Amelioration contrastes | Désactivé           | Désactivé                | Désactivé                | Desactivé                   | Desactivé                | Désactivé           | Désactivé                | Désactivé + **Egaliseur Dynamique D'image = 5** |
@@ -84,13 +84,13 @@
   + couleurs **21**
   + atténuation locale : élevé
   + contraste amélioré : élevé
-  + ST2084 **-3** 
-  + ombres **-2**
+  + ST2084 **-3**  
+  + ombres **-2** 
   + balance de couleurs HDR Maxnit mode standard 
 + régler le HDR dans les settings de la PS4.
 + HGIG off , mais comparer avec et sans si gain visible.
 + egaliseur dynamique d'image, paramètre du menu jeu : 5
-+ garder le game motion flow sur on
++ garder le game motion flow sur off (de @Hood62: baisse de luminosité)
 
 
 
